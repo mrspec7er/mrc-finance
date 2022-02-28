@@ -1,0 +1,22 @@
+[
+    {
+        "symbol": "BTC",
+        "name": "BITCOIN"
+    },
+    {
+        "symbol": "ETH",
+        "name": "ETHEREUM"
+    },
+    {
+        "symbol": "DOGE",
+        "name": "DOGE COIN"
+    },
+    {
+        "symbol": "BNB",
+        "name": "BINANCE COIN"
+    },
+    {
+        "symbol": "SHIB",
+        "name": "SHIBA COIN"
+    }
+]
